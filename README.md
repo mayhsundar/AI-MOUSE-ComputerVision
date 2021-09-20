@@ -1,4 +1,4 @@
-# AI-MOUSE-ComputerVision (The better camera you have, the better commanding you have)
+# AI-MOUSE-ComputerVision (The better camera you have, the better you comand you AI MOUSE)
 A mouse that works on your hand movements in real time
 
 
