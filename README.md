@@ -2,9 +2,8 @@
 A mouse that works on your hand movements in real time
 
 
-
-https://user-images.githubusercontent.com/55319627/134054749-4eb070a1-60dc-45f1-8118-c9011a0e9a6f.mp4
-
+## DEMO:
+https://user-images.githubusercontent.com/55319627/134058222-7795cab7-9287-4c85-8046-6a85e3fca26c.mp4
 
 
 # DEPENDENCIES 
